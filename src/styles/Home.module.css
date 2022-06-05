@@ -1,0 +1,33 @@
+.title a {
+  color: #0070f3;
+  text-decoration: none;
+}
+
+.title a:hover,
+.title a:focus,
+.title a:active {
+  text-decoration: underline;
+}
+
+.title {
+  margin: 0;
+  line-height: 1;
+  font-size: 5rem;
+  font-weight: 900;
+}
+
+.description {
+  margin: 4rem 0;
+  line-height: 1.5;
+  font-size: 1.5rem;
+}
+
+.code {
+  font-family: Ubuntu, Courier New, monospace;
+  font-weight: 100;
+}
+
+.logo {
+  height: 1em;
+  margin-left: 0.5rem;
+}
